@@ -1,0 +1,1608 @@
+{
+  "train": [
+    {
+      "text": "registrar que comi um pão",
+      "intent": "consumir"
+    },
+    {
+      "text": "vai chover amanhã",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "alterar validade",
+      "intent": "editar"
+    },
+    {
+      "text": "situação geral dos alimentos",
+      "intent": "resumo"
+    },
+    {
+      "text": "ainda tem leite",
+      "intent": "consultar"
+    },
+    {
+      "text": "dei baixa no frango",
+      "intent": "consumir"
+    },
+    {
+      "text": "total de alimentos cadastrados",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero mudar a categoria",
+      "intent": "editar"
+    },
+    {
+      "text": "resumir minha despensa",
+      "intent": "resumo"
+    },
+    {
+      "text": "calcule minhas calorias diárias",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "qual meu saldo bancário",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "notícias de hoje",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "altere minha senha",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "mostre todos os alimentos",
+      "intent": "consultar"
+    },
+    {
+      "text": "mude a quantidade do arroz",
+      "intent": "editar"
+    },
+    {
+      "text": "quem descobriu o Brasil",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "mostra a quantidade de ovos",
+      "intent": "consultar"
+    },
+    {
+      "text": "apagar item",
+      "intent": "excluir"
+    },
+    {
+      "text": "qual o saldo do arroz",
+      "intent": "consultar"
+    },
+    {
+      "text": "lista de comandos",
+      "intent": "ajuda"
+    },
+    {
+      "text": "qual o preço do dólar",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "tenho ovos",
+      "intent": "consultar"
+    },
+    {
+      "text": "usei 200g de carne",
+      "intent": "consumir"
+    },
+    {
+      "text": "adicione 1 kg de carne",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "orientações de uso",
+      "intent": "ajuda"
+    },
+    {
+      "text": "alguma comida vence no próximo mês",
+      "intent": "validade"
+    },
+    {
+      "text": "transferi o leite para a geladeira",
+      "intent": "editar"
+    },
+    {
+      "text": "tem algo prestes a vencer",
+      "intent": "validade"
+    },
+    {
+      "text": "validade dos alimentos",
+      "intent": "validade"
+    },
+    {
+      "text": "cadastrar alimento",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "me indica algo para cozinhar",
+      "intent": "receitas"
+    },
+    {
+      "text": "preciso cadastrar macarrão",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "conte uma piada",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "ver alimentos vencidos",
+      "intent": "validade"
+    },
+    {
+      "text": "comprei cinco tomates",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quero cozinhar com o estoque",
+      "intent": "receitas"
+    },
+    {
+      "text": "gastei 100 g de farinha",
+      "intent": "consumir"
+    },
+    {
+      "text": "quem ganhou o jogo",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "o que preparar com o que vence primeiro",
+      "intent": "receitas"
+    },
+    {
+      "text": "quero ver os totais",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero deletar um alimento",
+      "intent": "excluir"
+    },
+    {
+      "text": "como conversar com você",
+      "intent": "ajuda"
+    },
+    {
+      "text": "bebi 200ml de suco",
+      "intent": "consumir"
+    },
+    {
+      "text": "ver lista de produtos",
+      "intent": "consultar"
+    },
+    {
+      "text": "resumo geral dos alimentos",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero ver as opções",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quais alimentos estão vencidos",
+      "intent": "validade"
+    },
+    {
+      "text": "tem comida vencida",
+      "intent": "validade"
+    },
+    {
+      "text": "bom dia",
+      "intent": "ajuda"
+    },
+    {
+      "text": "como fazer algo com esses alimentos",
+      "intent": "receitas"
+    },
+    {
+      "text": "mostrar meu estoque",
+      "intent": "consultar"
+    },
+    {
+      "text": "baixar quantidade de arroz",
+      "intent": "consumir"
+    },
+    {
+      "text": "apagar cadastro duplicado",
+      "intent": "excluir"
+    },
+    {
+      "text": "remover alimento vencido",
+      "intent": "excluir"
+    },
+    {
+      "text": "cadastre leite com validade amanhã",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "me explique os comandos",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quero ouvir música",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "receita usando ovos",
+      "intent": "receitas"
+    },
+    {
+      "text": "chegaram novas compras",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "retirar parte do estoque",
+      "intent": "consumir"
+    },
+    {
+      "text": "o que tenho na geladeira",
+      "intent": "consultar"
+    },
+    {
+      "text": "painel geral",
+      "intent": "resumo"
+    },
+    {
+      "text": "não quero mais esse alimento cadastrado",
+      "intent": "excluir"
+    },
+    {
+      "text": "receitas para aproveitar a geladeira",
+      "intent": "receitas"
+    },
+    {
+      "text": "quero deletar o leite",
+      "intent": "excluir"
+    },
+    {
+      "text": "quantos cadastros tenho",
+      "intent": "resumo"
+    },
+    {
+      "text": "adicionar quantidade de arroz",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "descartar leite estragado",
+      "intent": "excluir"
+    },
+    {
+      "text": "que prato faço hoje",
+      "intent": "receitas"
+    },
+    {
+      "text": "o que vence este mês",
+      "intent": "validade"
+    },
+    {
+      "text": "quais alimentos estão na despensa",
+      "intent": "consultar"
+    },
+    {
+      "text": "comandos disponíveis",
+      "intent": "ajuda"
+    },
+    {
+      "text": "repus o óleo",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quero dar baixa em um alimento",
+      "intent": "consumir"
+    },
+    {
+      "text": "o que vence mês que vem",
+      "intent": "validade"
+    },
+    {
+      "text": "comprei um litro de leite",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "modificar validade do leite",
+      "intent": "editar"
+    },
+    {
+      "text": "remova o alimento da geladeira",
+      "intent": "excluir"
+    },
+    {
+      "text": "quero conhecer as funções",
+      "intent": "ajuda"
+    },
+    {
+      "text": "consultar validade",
+      "intent": "validade"
+    },
+    {
+      "text": "quero um resumo",
+      "intent": "resumo"
+    },
+    {
+      "text": "excluir leite",
+      "intent": "excluir"
+    },
+    {
+      "text": "balanço do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero uma receita simples",
+      "intent": "receitas"
+    },
+    {
+      "text": "quais são as opções",
+      "intent": "ajuda"
+    },
+    {
+      "text": "apagar registro do ovo",
+      "intent": "excluir"
+    },
+    {
+      "text": "retire 50 gramas de aveia",
+      "intent": "consumir"
+    },
+    {
+      "text": "remover item da despensa",
+      "intent": "excluir"
+    },
+    {
+      "text": "o que vence em 2027",
+      "intent": "validade"
+    },
+    {
+      "text": "menu principal",
+      "intent": "ajuda"
+    },
+    {
+      "text": "usei um alimento",
+      "intent": "consumir"
+    },
+    {
+      "text": "deletar comida do estoque",
+      "intent": "excluir"
+    },
+    {
+      "text": "cadastre uma banana",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "preciso registrar o que usei",
+      "intent": "consumir"
+    },
+    {
+      "text": "ajuda para preparar a janta",
+      "intent": "receitas"
+    },
+    {
+      "text": "listar a geladeira",
+      "intent": "consultar"
+    },
+    {
+      "text": "quais estão sem data de validade",
+      "intent": "validade"
+    },
+    {
+      "text": "corrigir cadastro do leite",
+      "intent": "editar"
+    },
+    {
+      "text": "o que vence em outubro",
+      "intent": "validade"
+    },
+    {
+      "text": "quero ideias para cozinhar",
+      "intent": "receitas"
+    },
+    {
+      "text": "quero conferir as datas de validade",
+      "intent": "validade"
+    },
+    {
+      "text": "oi tudo bem",
+      "intent": "ajuda"
+    },
+    {
+      "text": "panorama da despensa",
+      "intent": "resumo"
+    },
+    {
+      "text": "mover o feijão para outro local",
+      "intent": "editar"
+    },
+    {
+      "text": "quero uma receita de remédio",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "me dá uma ideia de refeição",
+      "intent": "receitas"
+    },
+    {
+      "text": "consultar meus produtos",
+      "intent": "consultar"
+    },
+    {
+      "text": "incluir os alimentos da compra",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "cancelar minha assinatura",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "despensa",
+      "intent": "consultar"
+    },
+    {
+      "text": "bom dia assistente",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quais ingredientes eu tenho",
+      "intent": "consultar"
+    },
+    {
+      "text": "preciso saber os comandos",
+      "intent": "ajuda"
+    },
+    {
+      "text": "sugerir receitas",
+      "intent": "receitas"
+    },
+    {
+      "text": "alterar quantidade",
+      "intent": "editar"
+    },
+    {
+      "text": "mudar informações do alimento",
+      "intent": "editar"
+    },
+    {
+      "text": "procure frango",
+      "intent": "consultar"
+    },
+    {
+      "text": "informações gerais da cozinha",
+      "intent": "resumo"
+    },
+    {
+      "text": "me sugira uma receita",
+      "intent": "receitas"
+    },
+    {
+      "text": "entraram três maçãs",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "estatísticas do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "listar despensa",
+      "intent": "consultar"
+    },
+    {
+      "text": "remover esse produto",
+      "intent": "excluir"
+    },
+    {
+      "text": "ideia de café da manhã",
+      "intent": "receitas"
+    },
+    {
+      "text": "me mostre os números da cozinha",
+      "intent": "resumo"
+    },
+    {
+      "text": "registra que usei leite",
+      "intent": "consumir"
+    },
+    {
+      "text": "o que cozinhar com arroz e ovo",
+      "intent": "receitas"
+    },
+    {
+      "text": "quantos alimentos tenho ao todo",
+      "intent": "resumo"
+    },
+    {
+      "text": "ajustar a quantidade cadastrada",
+      "intent": "editar"
+    },
+    {
+      "text": "como você pode ajudar",
+      "intent": "ajuda"
+    },
+    {
+      "text": "comprei dois ovos",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "o que vence hoje",
+      "intent": "validade"
+    },
+    {
+      "text": "retirar o cadastro inteiro",
+      "intent": "excluir"
+    },
+    {
+      "text": "receitas que usam cenoura",
+      "intent": "receitas"
+    },
+    {
+      "text": "o que posso perguntar",
+      "intent": "ajuda"
+    },
+    {
+      "text": "editar arroz",
+      "intent": "editar"
+    },
+    {
+      "text": "apague o cadastro do arroz",
+      "intent": "excluir"
+    },
+    {
+      "text": "coloque aveia na despensa",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "relatório geral de alimentos",
+      "intent": "resumo"
+    },
+    {
+      "text": "comprei manteiga hoje",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quero informar o consumo",
+      "intent": "consumir"
+    },
+    {
+      "text": "quero comprar um carro",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "mostre o resumo",
+      "intent": "resumo"
+    },
+    {
+      "text": "ajuda",
+      "intent": "ajuda"
+    },
+    {
+      "text": "alimentos perto da validade",
+      "intent": "validade"
+    },
+    {
+      "text": "buscar tomate",
+      "intent": "consultar"
+    },
+    {
+      "text": "atualize a validade do ovo",
+      "intent": "editar"
+    },
+    {
+      "text": "resumo do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "mudar o local do queijo",
+      "intent": "editar"
+    },
+    {
+      "text": "preparei o almoço usando dois tomates",
+      "intent": "consumir"
+    },
+    {
+      "text": "preciso editar um produto",
+      "intent": "editar"
+    },
+    {
+      "text": "exclua esse alimento",
+      "intent": "excluir"
+    },
+    {
+      "text": "o que fazer para comer",
+      "intent": "receitas"
+    },
+    {
+      "text": "explicar como usar",
+      "intent": "ajuda"
+    },
+    {
+      "text": "mostrar indicadores do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "ainda tenho macarrão",
+      "intent": "consultar"
+    },
+    {
+      "text": "comprei mais ovos",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quero atualizar o registro",
+      "intent": "editar"
+    },
+    {
+      "text": "entrada de alimentos",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "tirar 100 ml do leite",
+      "intent": "consumir"
+    },
+    {
+      "text": "o que vai vencer nos próximos três dias",
+      "intent": "validade"
+    },
+    {
+      "text": "joguei o pão no lixo",
+      "intent": "excluir"
+    },
+    {
+      "text": "quero uma ideia para o almoço",
+      "intent": "receitas"
+    },
+    {
+      "text": "registrar alimento",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "cadastro de produtos",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quanto sobrou de leite",
+      "intent": "consultar"
+    },
+    {
+      "text": "ler uma foto de documento",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "tem banana aí",
+      "intent": "consultar"
+    },
+    {
+      "text": "tem açúcar",
+      "intent": "consultar"
+    },
+    {
+      "text": "quais funções você tem",
+      "intent": "ajuda"
+    },
+    {
+      "text": "me mostre receitas",
+      "intent": "receitas"
+    },
+    {
+      "text": "quero uma dieta para emagrecer",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "retire esse item da lista",
+      "intent": "excluir"
+    },
+    {
+      "text": "me ajude a escolher uma refeição",
+      "intent": "receitas"
+    },
+    {
+      "text": "o que vence em dezembro",
+      "intent": "validade"
+    },
+    {
+      "text": "joguei o tomate fora",
+      "intent": "excluir"
+    },
+    {
+      "text": "ver estatísticas",
+      "intent": "resumo"
+    },
+    {
+      "text": "descartei os tomates",
+      "intent": "excluir"
+    },
+    {
+      "text": "o que está armazenado",
+      "intent": "consultar"
+    },
+    {
+      "text": "eliminar esse alimento",
+      "intent": "excluir"
+    },
+    {
+      "text": "renomear alimento",
+      "intent": "editar"
+    },
+    {
+      "text": "instruções de uso",
+      "intent": "ajuda"
+    },
+    {
+      "text": "tem algum leite cadastrado",
+      "intent": "consultar"
+    },
+    {
+      "text": "o que dá para fazer aqui",
+      "intent": "ajuda"
+    },
+    {
+      "text": "como estão meus alimentos",
+      "intent": "resumo"
+    },
+    {
+      "text": "ajuda com o aplicativo",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quais vencem em janeiro",
+      "intent": "validade"
+    },
+    {
+      "text": "como anda meu estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "quantos itens tenho cadastrados",
+      "intent": "resumo"
+    },
+    {
+      "text": "qual alimento vai vencer primeiro",
+      "intent": "validade"
+    },
+    {
+      "text": "quais alimentos vencem no próximo ano",
+      "intent": "validade"
+    },
+    {
+      "text": "edita o queijo",
+      "intent": "editar"
+    },
+    {
+      "text": "algum item vence hoje",
+      "intent": "validade"
+    },
+    {
+      "text": "qual é o total de cadastros",
+      "intent": "resumo"
+    },
+    {
+      "text": "o que preparar com o que tenho",
+      "intent": "receitas"
+    },
+    {
+      "text": "o que dá para fazer com leite",
+      "intent": "receitas"
+    },
+    {
+      "text": "menu",
+      "intent": "ajuda"
+    },
+    {
+      "text": "contagem dos alimentos",
+      "intent": "resumo"
+    },
+    {
+      "text": "quais vencem até sexta",
+      "intent": "validade"
+    },
+    {
+      "text": "cadastrar outro lote de arroz",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "descontar o que cozinhei",
+      "intent": "consumir"
+    },
+    {
+      "text": "colocar 500 g de açúcar no estoque",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "comemos duas maçãs",
+      "intent": "consumir"
+    },
+    {
+      "text": "me indique um filme",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "sugira um lanche",
+      "intent": "receitas"
+    },
+    {
+      "text": "sugestão de prato",
+      "intent": "receitas"
+    },
+    {
+      "text": "o que fazer com os alimentos vencendo",
+      "intent": "receitas"
+    },
+    {
+      "text": "quero ver o que vence em fevereiro",
+      "intent": "validade"
+    },
+    {
+      "text": "reduzir a quantidade consumida",
+      "intent": "consumir"
+    },
+    {
+      "text": "ver prazo de validade",
+      "intent": "validade"
+    },
+    {
+      "text": "ideias para o jantar",
+      "intent": "receitas"
+    },
+    {
+      "text": "receitas com arroz",
+      "intent": "receitas"
+    },
+    {
+      "text": "comprei um ovo",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "qual remédio eu tomo",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "comi o restante",
+      "intent": "consumir"
+    },
+    {
+      "text": "quanto custa uma viagem",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "mostrar alimentos sem validade",
+      "intent": "validade"
+    },
+    {
+      "text": "tirar esse registro da lista",
+      "intent": "excluir"
+    },
+    {
+      "text": "ver estoque de comida",
+      "intent": "consultar"
+    },
+    {
+      "text": "qual a cotação do euro",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "usei 1 kg de frango",
+      "intent": "consumir"
+    },
+    {
+      "text": "como usar o assistente",
+      "intent": "ajuda"
+    },
+    {
+      "text": "consultar alimento",
+      "intent": "consultar"
+    },
+    {
+      "text": "faça um desenho",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "como investir meu dinheiro",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "marque uma consulta",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "como funciona o chatbot",
+      "intent": "ajuda"
+    },
+    {
+      "text": "resumo da geladeira",
+      "intent": "resumo"
+    },
+    {
+      "text": "resumo de alimentos disponíveis",
+      "intent": "resumo"
+    },
+    {
+      "text": "retirei um ovo para cozinhar",
+      "intent": "consumir"
+    },
+    {
+      "text": "adiciona dois pães",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "a validade do leite é 20/12/2027",
+      "intent": "editar"
+    },
+    {
+      "text": "transferir carne para o freezer",
+      "intent": "editar"
+    },
+    {
+      "text": "consumir leite",
+      "intent": "consumir"
+    },
+    {
+      "text": "quero registrar os alimentos comprados",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "mostre o menu",
+      "intent": "ajuda"
+    },
+    {
+      "text": "editar os dados do alimento",
+      "intent": "editar"
+    },
+    {
+      "text": "visão geral da cozinha",
+      "intent": "resumo"
+    },
+    {
+      "text": "atualizar nome do alimento",
+      "intent": "editar"
+    },
+    {
+      "text": "quero corrigir o estoque",
+      "intent": "editar"
+    },
+    {
+      "text": "ajustar cadastro do arroz",
+      "intent": "editar"
+    },
+    {
+      "text": "corrija o cadastro do frango",
+      "intent": "editar"
+    },
+    {
+      "text": "olá",
+      "intent": "ajuda"
+    },
+    {
+      "text": "listar alimentos",
+      "intent": "consultar"
+    },
+    {
+      "text": "alterar cadastro",
+      "intent": "editar"
+    },
+    {
+      "text": "preparar comida com meus alimentos",
+      "intent": "receitas"
+    },
+    {
+      "text": "me dê um panorama",
+      "intent": "resumo"
+    },
+    {
+      "text": "consumi 200 g de arroz",
+      "intent": "consumir"
+    },
+    {
+      "text": "mande um email",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "o que vence no próximo mês",
+      "intent": "validade"
+    },
+    {
+      "text": "registrar consumo",
+      "intent": "consumir"
+    },
+    {
+      "text": "oi",
+      "intent": "ajuda"
+    },
+    {
+      "text": "ver vencimentos",
+      "intent": "validade"
+    },
+    {
+      "text": "quero corrigir a data",
+      "intent": "editar"
+    },
+    {
+      "text": "remova a banana",
+      "intent": "excluir"
+    },
+    {
+      "text": "descartar alimento",
+      "intent": "excluir"
+    },
+    {
+      "text": "descartar todo o arroz",
+      "intent": "excluir"
+    },
+    {
+      "text": "descontar 300 g de carne",
+      "intent": "consumir"
+    },
+    {
+      "text": "mude o nome para arroz integral",
+      "intent": "editar"
+    },
+    {
+      "text": "eliminar cadastro duplicado",
+      "intent": "excluir"
+    },
+    {
+      "text": "quero guardar o que comprei",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "me conta uma história",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "consumo de alimentos",
+      "intent": "consumir"
+    },
+    {
+      "text": "boa noite",
+      "intent": "ajuda"
+    },
+    {
+      "text": "acabamos de comer o queijo",
+      "intent": "consumir"
+    },
+    {
+      "text": "freezer",
+      "intent": "consultar"
+    },
+    {
+      "text": "inclua queijo no estoque",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "o que vence daqui a dois dias",
+      "intent": "validade"
+    },
+    {
+      "text": "bebi leite",
+      "intent": "consumir"
+    },
+    {
+      "text": "acabei de comprar feijão",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "preciso de diagnóstico médico",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "quem é o presidente",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "quanto arroz tenho",
+      "intent": "consultar"
+    },
+    {
+      "text": "delete esse cadastro",
+      "intent": "excluir"
+    },
+    {
+      "text": "corrigir a unidade",
+      "intent": "editar"
+    },
+    {
+      "text": "abrir a câmera",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "me mostra o que tenho em casa",
+      "intent": "consultar"
+    },
+    {
+      "text": "qual horário do ônibus",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "jogar fora o frango",
+      "intent": "excluir"
+    },
+    {
+      "text": "cheguei do mercado com leite",
+      "intent": "cadastrar"
+    }
+  ],
+  "validation": [
+    {
+      "text": "ver alimentos disponíveis",
+      "intent": "consultar"
+    },
+    {
+      "text": "resolva esta equação",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "qual receita combina com meus ingredientes",
+      "intent": "receitas"
+    },
+    {
+      "text": "olá assistente",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quanto de carne sobrou",
+      "intent": "consultar"
+    },
+    {
+      "text": "ver números do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "delete o macarrão",
+      "intent": "excluir"
+    },
+    {
+      "text": "registrar minha compra",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "dar baixa no estoque",
+      "intent": "consumir"
+    },
+    {
+      "text": "o que posso cozinhar",
+      "intent": "receitas"
+    },
+    {
+      "text": "adicionar no estoque",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "apagar o leite do estoque",
+      "intent": "excluir"
+    },
+    {
+      "text": "exclusão de alimento",
+      "intent": "excluir"
+    },
+    {
+      "text": "sugestões para almoço",
+      "intent": "receitas"
+    },
+    {
+      "text": "repor o estoque de café",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "me diga suas funções",
+      "intent": "ajuda"
+    },
+    {
+      "text": "comprei arroz",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "opções de pratos",
+      "intent": "receitas"
+    },
+    {
+      "text": "geladeira",
+      "intent": "consultar"
+    },
+    {
+      "text": "procurar arroz",
+      "intent": "consultar"
+    },
+    {
+      "text": "excluir o cadastro completo",
+      "intent": "excluir"
+    },
+    {
+      "text": "consulta de estoque",
+      "intent": "consultar"
+    },
+    {
+      "text": "qual a capital da França",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "receita médica de antibiótico",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "trocar a categoria do alimento",
+      "intent": "editar"
+    },
+    {
+      "text": "boa tarde",
+      "intent": "ajuda"
+    },
+    {
+      "text": "remover cadastro de arroz",
+      "intent": "excluir"
+    },
+    {
+      "text": "correção da data de vencimento",
+      "intent": "editar"
+    },
+    {
+      "text": "quais são os totais da cozinha",
+      "intent": "resumo"
+    },
+    {
+      "text": "o que vence em novembro",
+      "intent": "validade"
+    },
+    {
+      "text": "quero ver meus alimentos",
+      "intent": "consultar"
+    },
+    {
+      "text": "preciso de ajuda",
+      "intent": "ajuda"
+    },
+    {
+      "text": "pesquise na internet",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "quais comandos posso usar",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quantos produtos estão cadastrados",
+      "intent": "resumo"
+    },
+    {
+      "text": "o que posso fazer no jantar",
+      "intent": "receitas"
+    },
+    {
+      "text": "algum alimento vence amanhã",
+      "intent": "validade"
+    },
+    {
+      "text": "alimentos com validade amanhã",
+      "intent": "validade"
+    },
+    {
+      "text": "mostrar panorama do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "me mostre o que posso fazer",
+      "intent": "ajuda"
+    },
+    {
+      "text": "quero adicionar um alimento",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quero somar dois ovos ao estoque",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quero remover o queijo",
+      "intent": "excluir"
+    },
+    {
+      "text": "o que vence semana que vem",
+      "intent": "validade"
+    },
+    {
+      "text": "qual é a minha senha",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "resuma meus alimentos",
+      "intent": "resumo"
+    },
+    {
+      "text": "desconte um litro de água",
+      "intent": "consumir"
+    },
+    {
+      "text": "consultar o vencimento do arroz",
+      "intent": "validade"
+    },
+    {
+      "text": "baixar alimento consumido",
+      "intent": "consumir"
+    },
+    {
+      "text": "editar alimento",
+      "intent": "editar"
+    },
+    {
+      "text": "visão geral do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "comidas que já passaram da validade",
+      "intent": "validade"
+    },
+    {
+      "text": "errei o nome da carne",
+      "intent": "editar"
+    },
+    {
+      "text": "me ajuda com matemática",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "a quantidade cadastrada está errada",
+      "intent": "editar"
+    },
+    {
+      "text": "comi uma banana",
+      "intent": "consumir"
+    },
+    {
+      "text": "gastei metade da manteiga",
+      "intent": "consumir"
+    },
+    {
+      "text": "edite o tomate",
+      "intent": "editar"
+    },
+    {
+      "text": "gastei o resto do arroz",
+      "intent": "consumir"
+    },
+    {
+      "text": "qual prato preparar",
+      "intent": "receitas"
+    }
+  ],
+  "test": [
+    {
+      "text": "o que você faz",
+      "intent": "ajuda"
+    },
+    {
+      "text": "remover registro",
+      "intent": "excluir"
+    },
+    {
+      "text": "como funciona esse chat",
+      "intent": "ajuda"
+    },
+    {
+      "text": "procure queijo no estoque",
+      "intent": "consultar"
+    },
+    {
+      "text": "algum alimento vence no mês seguinte",
+      "intent": "validade"
+    },
+    {
+      "text": "alimentos na geladeira",
+      "intent": "consultar"
+    },
+    {
+      "text": "adicionar mais leite",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "gerar resumo do estoque",
+      "intent": "resumo"
+    },
+    {
+      "text": "guardei leite na geladeira",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "exclua o queijo",
+      "intent": "excluir"
+    },
+    {
+      "text": "mostrar alimentos da despensa",
+      "intent": "consultar"
+    },
+    {
+      "text": "oi chat",
+      "intent": "ajuda"
+    },
+    {
+      "text": "mudar unidade",
+      "intent": "editar"
+    },
+    {
+      "text": "quais comidas estão cadastradas",
+      "intent": "consultar"
+    },
+    {
+      "text": "trouxe um pacote de farinha",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "o que tem no freezer",
+      "intent": "consultar"
+    },
+    {
+      "text": "mostrar relatório resumido",
+      "intent": "resumo"
+    },
+    {
+      "text": "acabei usando três bananas",
+      "intent": "consumir"
+    },
+    {
+      "text": "ideias de receitas",
+      "intent": "receitas"
+    },
+    {
+      "text": "trocar local de armazenamento",
+      "intent": "editar"
+    },
+    {
+      "text": "tirei arroz para o jantar",
+      "intent": "consumir"
+    },
+    {
+      "text": "quero aproveitar os ingredientes em uma receita",
+      "intent": "receitas"
+    },
+    {
+      "text": "como começar",
+      "intent": "ajuda"
+    },
+    {
+      "text": "como está minha cozinha",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero comprar um notebook",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "como tratar dor de cabeça",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "apague minha conta bancária",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "usei uma unidade",
+      "intent": "consumir"
+    },
+    {
+      "text": "o nome do alimento está errado",
+      "intent": "editar"
+    },
+    {
+      "text": "manda uma mensagem para minha mãe",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "me ajuda a usar isso",
+      "intent": "ajuda"
+    },
+    {
+      "text": "excluir alimento",
+      "intent": "excluir"
+    },
+    {
+      "text": "resumir tudo cadastrado",
+      "intent": "resumo"
+    },
+    {
+      "text": "o leite está vencido",
+      "intent": "validade"
+    },
+    {
+      "text": "receita com molho de tomate",
+      "intent": "receitas"
+    },
+    {
+      "text": "quero preparar uma refeição",
+      "intent": "receitas"
+    },
+    {
+      "text": "escreva um programa em java",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "ver tudo que está guardado",
+      "intent": "consultar"
+    },
+    {
+      "text": "consumi um ovo",
+      "intent": "consumir"
+    },
+    {
+      "text": "me mostra um resumo de tudo",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero excluir um produto",
+      "intent": "excluir"
+    },
+    {
+      "text": "traduzir texto para inglês",
+      "intent": "fora_escopo"
+    },
+    {
+      "text": "alterei o local do ovo",
+      "intent": "editar"
+    },
+    {
+      "text": "como aproveitar meus ingredientes",
+      "intent": "receitas"
+    },
+    {
+      "text": "adicionar alimento novo",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "como usar esse sistema",
+      "intent": "ajuda"
+    },
+    {
+      "text": "usei dois ovos",
+      "intent": "consumir"
+    },
+    {
+      "text": "coloquei a validade errada",
+      "intent": "editar"
+    },
+    {
+      "text": "o que vence no dia 20/12/2027",
+      "intent": "validade"
+    },
+    {
+      "text": "reabastecer a despensa",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "quais produtos vencem nesta semana",
+      "intent": "validade"
+    },
+    {
+      "text": "joguei fora a carne",
+      "intent": "excluir"
+    },
+    {
+      "text": "incluir frango no freezer",
+      "intent": "cadastrar"
+    },
+    {
+      "text": "vencimentos do mês atual",
+      "intent": "validade"
+    },
+    {
+      "text": "ideias de lanche",
+      "intent": "receitas"
+    },
+    {
+      "text": "tomei um copo de leite",
+      "intent": "consumir"
+    },
+    {
+      "text": "atualizar cadastro de comida",
+      "intent": "editar"
+    },
+    {
+      "text": "quero um balanço geral",
+      "intent": "resumo"
+    },
+    {
+      "text": "quero jogar fora o leite",
+      "intent": "excluir"
+    },
+    {
+      "text": "vencimentos de setembro",
+      "intent": "validade"
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+text,intent
+comprei dois ovos,cadastrar
+comprei arroz,cadastrar
+cheguei do mercado com leite,cadastrar
+quero adicionar um alimento,cadastrar
+cadastrar alimento,cadastrar
+cadastre uma banana,cadastrar
+adicione 1 kg de carne,cadastrar
+inclua queijo no estoque,cadastrar
+registrar minha compra,cadastrar
+comprei um litro de leite,cadastrar
+comprei mais ovos,cadastrar
+acabei de comprar feijão,cadastrar
+adicionar quantidade de arroz,cadastrar
+repor o estoque de café,cadastrar
+preciso cadastrar macarrão,cadastrar
+coloque aveia na despensa,cadastrar
+entraram três maçãs,cadastrar
+guardei leite na geladeira,cadastrar
+quero registrar os alimentos comprados,cadastrar
+adicionar alimento novo,cadastrar
+incluir frango no freezer,cadastrar
+cadastro de produtos,cadastrar
+comprei um ovo,cadastrar
+comprei cinco tomates,cadastrar
+adicionar mais leite,cadastrar
+reabastecer a despensa,cadastrar
+cadastre leite com validade amanhã,cadastrar
+quero somar dois ovos ao estoque,cadastrar
+incluir os alimentos da compra,cadastrar
+chegaram novas compras,cadastrar
+registrar alimento,cadastrar
+colocar 500 g de açúcar no estoque,cadastrar
+cadastrar outro lote de arroz,cadastrar
+comprei manteiga hoje,cadastrar
+repus o óleo,cadastrar
+entrada de alimentos,cadastrar
+adiciona dois pães,cadastrar
+quero guardar o que comprei,cadastrar
+adicionar no estoque,cadastrar
+trouxe um pacote de farinha,cadastrar
+usei dois ovos,consumir
+consumi 200 g de arroz,consumir
+comi uma banana,consumir
+bebi leite,consumir
+dar baixa no estoque,consumir
+registrar consumo,consumir
+gastei 100 g de farinha,consumir
+retirei um ovo para cozinhar,consumir
+usei um alimento,consumir
+descontar 300 g de carne,consumir
+consumir leite,consumir
+baixar quantidade de arroz,consumir
+preparei o almoço usando dois tomates,consumir
+tomei um copo de leite,consumir
+acabamos de comer o queijo,consumir
+usei 200g de carne,consumir
+retirar parte do estoque,consumir
+tirar 100 ml do leite,consumir
+preciso registrar o que usei,consumir
+dei baixa no frango,consumir
+reduzir a quantidade consumida,consumir
+gastei o resto do arroz,consumir
+usei uma unidade,consumir
+consumi um ovo,consumir
+comemos duas maçãs,consumir
+desconte um litro de água,consumir
+acabei usando três bananas,consumir
+retire 50 gramas de aveia,consumir
+consumo de alimentos,consumir
+quero informar o consumo,consumir
+registrar que comi um pão,consumir
+usei 1 kg de frango,consumir
+bebi 200ml de suco,consumir
+baixar alimento consumido,consumir
+gastei metade da manteiga,consumir
+comi o restante,consumir
+tirei arroz para o jantar,consumir
+descontar o que cozinhei,consumir
+quero dar baixa em um alimento,consumir
+registra que usei leite,consumir
+editar alimento,editar
+alterar validade,editar
+corrigir cadastro do leite,editar
+mude a quantidade do arroz,editar
+atualizar nome do alimento,editar
+edite o tomate,editar
+coloquei a validade errada,editar
+quero mudar a categoria,editar
+mudar o local do queijo,editar
+transferir carne para o freezer,editar
+o nome do alimento está errado,editar
+corrigir a unidade,editar
+ajustar a quantidade cadastrada,editar
+alterar cadastro,editar
+editar arroz,editar
+quero corrigir a data,editar
+atualize a validade do ovo,editar
+a validade do leite é 20/12/2027,editar
+mude o nome para arroz integral,editar
+trocar a categoria do alimento,editar
+preciso editar um produto,editar
+corrija o cadastro do frango,editar
+quero atualizar o registro,editar
+alterar quantidade,editar
+mudar unidade,editar
+editar os dados do alimento,editar
+transferi o leite para a geladeira,editar
+a quantidade cadastrada está errada,editar
+renomear alimento,editar
+atualizar cadastro de comida,editar
+errei o nome da carne,editar
+mover o feijão para outro local,editar
+quero corrigir o estoque,editar
+edita o queijo,editar
+modificar validade do leite,editar
+trocar local de armazenamento,editar
+ajustar cadastro do arroz,editar
+alterei o local do ovo,editar
+correção da data de vencimento,editar
+mudar informações do alimento,editar
+excluir alimento,excluir
+apagar o leite do estoque,excluir
+remover cadastro de arroz,excluir
+joguei o tomate fora,excluir
+exclua o queijo,excluir
+quero deletar um alimento,excluir
+remova a banana,excluir
+descartar alimento,excluir
+jogar fora o frango,excluir
+eliminar cadastro duplicado,excluir
+retirar o cadastro inteiro,excluir
+excluir leite,excluir
+apagar registro do ovo,excluir
+não quero mais esse alimento cadastrado,excluir
+remover alimento vencido,excluir
+delete esse cadastro,excluir
+joguei fora a carne,excluir
+descartar leite estragado,excluir
+quero excluir um produto,excluir
+remover item da despensa,excluir
+apague o cadastro do arroz,excluir
+exclua esse alimento,excluir
+remover registro,excluir
+deletar comida do estoque,excluir
+eliminar esse alimento,excluir
+descartei os tomates,excluir
+apagar item,excluir
+quero remover o queijo,excluir
+joguei o pão no lixo,excluir
+tirar esse registro da lista,excluir
+excluir o cadastro completo,excluir
+remova o alimento da geladeira,excluir
+apagar cadastro duplicado,excluir
+descartar todo o arroz,excluir
+quero deletar o leite,excluir
+exclusão de alimento,excluir
+delete o macarrão,excluir
+retire esse item da lista,excluir
+remover esse produto,excluir
+quero jogar fora o leite,excluir
+o que tenho na geladeira,consultar
+tenho ovos,consultar
+mostrar meu estoque,consultar
+listar alimentos,consultar
+quais alimentos estão na despensa,consultar
+freezer,consultar
+despensa,consultar
+geladeira,consultar
+mostre todos os alimentos,consultar
+quanto arroz tenho,consultar
+ainda tem leite,consultar
+buscar tomate,consultar
+consultar meus produtos,consultar
+quais comidas estão cadastradas,consultar
+ver alimentos disponíveis,consultar
+o que tem no freezer,consultar
+me mostra o que tenho em casa,consultar
+procure queijo no estoque,consultar
+listar a geladeira,consultar
+quais ingredientes eu tenho,consultar
+quanto de carne sobrou,consultar
+tem banana aí,consultar
+mostrar alimentos da despensa,consultar
+consulta de estoque,consultar
+quero ver meus alimentos,consultar
+procurar arroz,consultar
+tem algum leite cadastrado,consultar
+ver tudo que está guardado,consultar
+o que está armazenado,consultar
+alimentos na geladeira,consultar
+tem açúcar,consultar
+ver lista de produtos,consultar
+mostra a quantidade de ovos,consultar
+qual o saldo do arroz,consultar
+consultar alimento,consultar
+procure frango,consultar
+ver estoque de comida,consultar
+listar despensa,consultar
+quanto sobrou de leite,consultar
+ainda tenho macarrão,consultar
+o que vence mês que vem,validade
+algum alimento vence amanhã,validade
+o que vence em novembro,validade
+o que vence em outubro,validade
+quais alimentos estão vencidos,validade
+consultar validade,validade
+o que vence hoje,validade
+alguma comida vence no próximo mês,validade
+qual alimento vai vencer primeiro,validade
+quais produtos vencem nesta semana,validade
+ver vencimentos,validade
+alimentos perto da validade,validade
+tem comida vencida,validade
+o que vence em dezembro,validade
+quero conferir as datas de validade,validade
+o que vence este mês,validade
+algum alimento vence no mês seguinte,validade
+o que vai vencer nos próximos três dias,validade
+ver alimentos vencidos,validade
+quais vencem em janeiro,validade
+validade dos alimentos,validade
+o leite está vencido,validade
+o que vence semana que vem,validade
+vencimentos do mês atual,validade
+quais alimentos vencem no próximo ano,validade
+o que vence no dia 20/12/2027,validade
+alimentos com validade amanhã,validade
+tem algo prestes a vencer,validade
+ver prazo de validade,validade
+o que vence em 2027,validade
+comidas que já passaram da validade,validade
+vencimentos de setembro,validade
+o que vence daqui a dois dias,validade
+consultar o vencimento do arroz,validade
+mostrar alimentos sem validade,validade
+quero ver o que vence em fevereiro,validade
+o que vence no próximo mês,validade
+quais vencem até sexta,validade
+algum item vence hoje,validade
+quais estão sem data de validade,validade
+sugerir receitas,receitas
+o que posso cozinhar,receitas
+ideias para o jantar,receitas
+me sugira uma receita,receitas
+o que preparar com o que tenho,receitas
+receitas com arroz,receitas
+quero uma ideia para o almoço,receitas
+como aproveitar meus ingredientes,receitas
+o que fazer para comer,receitas
+sugestão de prato,receitas
+receita usando ovos,receitas
+quero cozinhar com o estoque,receitas
+me ajude a escolher uma refeição,receitas
+ideias de receitas,receitas
+o que preparar com o que vence primeiro,receitas
+receitas para aproveitar a geladeira,receitas
+me indica algo para cozinhar,receitas
+quero preparar uma refeição,receitas
+como fazer algo com esses alimentos,receitas
+opções de pratos,receitas
+o que dá para fazer com leite,receitas
+quero uma receita simples,receitas
+sugira um lanche,receitas
+preparar comida com meus alimentos,receitas
+o que posso fazer no jantar,receitas
+ideia de café da manhã,receitas
+que prato faço hoje,receitas
+receitas que usam cenoura,receitas
+sugestões para almoço,receitas
+quero ideias para cozinhar,receitas
+o que cozinhar com arroz e ovo,receitas
+receita com molho de tomate,receitas
+me mostre receitas,receitas
+ajuda para preparar a janta,receitas
+qual receita combina com meus ingredientes,receitas
+ideias de lanche,receitas
+o que fazer com os alimentos vencendo,receitas
+quero aproveitar os ingredientes em uma receita,receitas
+qual prato preparar,receitas
+me dá uma ideia de refeição,receitas
+resumo do estoque,resumo
+como estão meus alimentos,resumo
+visão geral da cozinha,resumo
+quero um resumo,resumo
+mostrar panorama do estoque,resumo
+quantos alimentos tenho ao todo,resumo
+resumir minha despensa,resumo
+ver estatísticas,resumo
+total de alimentos cadastrados,resumo
+balanço do estoque,resumo
+me mostre os números da cozinha,resumo
+situação geral dos alimentos,resumo
+resumo da geladeira,resumo
+quantos cadastros tenho,resumo
+quero ver os totais,resumo
+resuma meus alimentos,resumo
+painel geral,resumo
+mostre o resumo,resumo
+estatísticas do estoque,resumo
+relatório geral de alimentos,resumo
+como está minha cozinha,resumo
+qual é o total de cadastros,resumo
+me dê um panorama,resumo
+resumo geral dos alimentos,resumo
+mostrar indicadores do estoque,resumo
+contagem dos alimentos,resumo
+quero um balanço geral,resumo
+quantos produtos estão cadastrados,resumo
+visão geral do estoque,resumo
+me mostra um resumo de tudo,resumo
+como anda meu estoque,resumo
+informações gerais da cozinha,resumo
+ver números do estoque,resumo
+resumir tudo cadastrado,resumo
+gerar resumo do estoque,resumo
+panorama da despensa,resumo
+resumo de alimentos disponíveis,resumo
+quais são os totais da cozinha,resumo
+quantos itens tenho cadastrados,resumo
+mostrar relatório resumido,resumo
+oi,ajuda
+olá,ajuda
+bom dia,ajuda
+boa tarde,ajuda
+boa noite,ajuda
+ajuda,ajuda
+menu,ajuda
+o que você faz,ajuda
+como funciona o chatbot,ajuda
+quais funções você tem,ajuda
+preciso de ajuda,ajuda
+como usar o assistente,ajuda
+me explique os comandos,ajuda
+o que posso perguntar,ajuda
+quais comandos posso usar,ajuda
+quero ver as opções,ajuda
+instruções de uso,ajuda
+como você pode ajudar,ajuda
+como começar,ajuda
+mostre o menu,ajuda
+olá assistente,ajuda
+oi tudo bem,ajuda
+me ajuda a usar isso,ajuda
+como funciona esse chat,ajuda
+quais são as opções,ajuda
+lista de comandos,ajuda
+ajuda com o aplicativo,ajuda
+explicar como usar,ajuda
+me diga suas funções,ajuda
+o que dá para fazer aqui,ajuda
+comandos disponíveis,ajuda
+menu principal,ajuda
+me mostre o que posso fazer,ajuda
+como conversar com você,ajuda
+orientações de uso,ajuda
+oi chat,ajuda
+bom dia assistente,ajuda
+quero conhecer as funções,ajuda
+como usar esse sistema,ajuda
+preciso saber os comandos,ajuda
+qual a capital da França,fora_escopo
+quem ganhou o jogo,fora_escopo
+vai chover amanhã,fora_escopo
+conte uma piada,fora_escopo
+qual o preço do dólar,fora_escopo
+quero comprar um carro,fora_escopo
+escreva um programa em java,fora_escopo
+me indique um filme,fora_escopo
+quem é o presidente,fora_escopo
+qual a cotação do euro,fora_escopo
+me ajuda com matemática,fora_escopo
+qual remédio eu tomo,fora_escopo
+quero uma dieta para emagrecer,fora_escopo
+calcule minhas calorias diárias,fora_escopo
+preciso de diagnóstico médico,fora_escopo
+como investir meu dinheiro,fora_escopo
+marque uma consulta,fora_escopo
+manda uma mensagem para minha mãe,fora_escopo
+apague minha conta bancária,fora_escopo
+quero comprar um notebook,fora_escopo
+quanto custa uma viagem,fora_escopo
+qual meu saldo bancário,fora_escopo
+me conta uma história,fora_escopo
+faça um desenho,fora_escopo
+traduzir texto para inglês,fora_escopo
+notícias de hoje,fora_escopo
+quero ouvir música,fora_escopo
+resolva esta equação,fora_escopo
+mande um email,fora_escopo
+quem descobriu o Brasil,fora_escopo
+qual é a minha senha,fora_escopo
+pesquise na internet,fora_escopo
+receita médica de antibiótico,fora_escopo
+quero uma receita de remédio,fora_escopo
+como tratar dor de cabeça,fora_escopo
+altere minha senha,fora_escopo
+cancelar minha assinatura,fora_escopo
+qual horário do ônibus,fora_escopo
+abrir a câmera,fora_escopo
+ler uma foto de documento,fora_escopo

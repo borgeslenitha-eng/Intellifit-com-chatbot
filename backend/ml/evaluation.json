@@ -1,0 +1,234 @@
+{
+  "dataset_sha256": "8bfd30d5db5255497a0311dbcd1b558d4bd38d15305749485586c615ee1a4a2c",
+  "sklearn_version": "1.8.0",
+  "random_seeds": [
+    42,
+    43
+  ],
+  "samples": 400,
+  "split": {
+    "train": 280,
+    "validation": 60,
+    "test": 60
+  },
+  "threshold": 0.5,
+  "accuracy": 0.7,
+  "macro_f1": 0.6934998334998335,
+  "coverage_at_threshold": 0.55,
+  "accuracy_on_accepted": 0.7878787878787878,
+  "classification_report": {
+    "ajuda": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 6.0
+    },
+    "cadastrar": {
+      "precision": 0.4,
+      "recall": 0.3333333333333333,
+      "f1-score": 0.36363636363636365,
+      "support": 6.0
+    },
+    "consultar": {
+      "precision": 0.42857142857142855,
+      "recall": 0.5,
+      "f1-score": 0.46153846153846156,
+      "support": 6.0
+    },
+    "consumir": {
+      "precision": 0.5714285714285714,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6153846153846154,
+      "support": 6.0
+    },
+    "editar": {
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1-score": 0.6,
+      "support": 6.0
+    },
+    "excluir": {
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.9090909090909091,
+      "support": 6.0
+    },
+    "fora_escopo": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 6.0
+    },
+    "receitas": {
+      "precision": 0.7142857142857143,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.7692307692307693,
+      "support": 6.0
+    },
+    "resumo": {
+      "precision": 0.8571428571428571,
+      "recall": 1.0,
+      "f1-score": 0.9230769230769231,
+      "support": 6.0
+    },
+    "validade": {
+      "precision": 0.7142857142857143,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.7692307692307693,
+      "support": 6.0
+    },
+    "accuracy": 0.7,
+    "macro avg": {
+      "precision": 0.7185714285714285,
+      "recall": 0.7,
+      "f1-score": 0.6934998334998335,
+      "support": 60.0
+    },
+    "weighted avg": {
+      "precision": 0.7185714285714284,
+      "recall": 0.7,
+      "f1-score": 0.6934998334998335,
+      "support": 60.0
+    }
+  },
+  "classes": [
+    "ajuda",
+    "cadastrar",
+    "consultar",
+    "consumir",
+    "editar",
+    "excluir",
+    "fora_escopo",
+    "receitas",
+    "resumo",
+    "validade"
+  ],
+  "confusion_matrix": [
+    [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      3,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5
+    ]
+  ],
+  "limitations": [
+    "Base pequena e autoral; métricas internas não garantem desempenho em uso real.",
+    "Divisão estratificada por frases, não por autores ou grupos de paráfrases; linguagem semelhante pode elevar os resultados.",
+    "Pontuações do classificador não são probabilidades calibradas de acerto.",
+    "Modelo não aprende automaticamente com as conversas."
+  ]
+}
